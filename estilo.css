@@ -1,0 +1,24 @@
+/*Comentario en css*/
+body{
+    background-color:  #0040FF;
+    color : black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 10em;
+    padding-right: 10em;
+}
+ul.navbar{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 10em;
+    left: 1em;
+    width: 8em;
+
+}
+ul.navbar li{
+    background: black;
+    margin: 0.5em 0 0 0.5em;
+    padding: 0.2em;
+    border-right: 1em solid chartreuse;
+}
